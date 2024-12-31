@@ -665,7 +665,10 @@ http://181.13.173.86:8000/play/a0b7/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR 
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", France 24 ESPAÑOL
+http://200.26.177.54:8000/play/a0hu/index.m3u8
  
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", RT 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
