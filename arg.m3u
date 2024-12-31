@@ -1809,6 +1809,9 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="MISIONES", CANAL 9 NORTE MISIONES
 https://panel.host-live.com:19360/8076/8076.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.radiomasnoticias.com.ar/img/logos2.png" group-title="MISIONES", 35 TV POSADAS
+https://iptv.ixfo.com.ar:30443/live/Canal35TV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/779_Canal_4_Eldorado.png" group-title="MISIONES", Canal 4 EL DORADO
 https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 
@@ -1850,6 +1853,17 @@ https://video.tecnosoul.com.ar:8443/live/656db4dcdd70b-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347295937333522434/p0KOxUjd_400x400.jpg" group-title="MISIONES", RADIO CE - SAN VICENTE
 https://panel.dattalive.com/8098/8098/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIIDENPO.png" group-title="MISIONES", IDENTIDAD 87.9 FM POSADAS
+https://iptv.ixfo.com.ar:30443/live/PoliciaIdentidadTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://escuchanosonline.com/clientes/img/logos/da014c6312bfde04a774f8a3114738d1.jpg" group-title="MISIONES", TOTTALTV 88.7 FM GARUPA
+https://iptv.ixfo.com.ar:30443/live/RadioTotalTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radioup.com.ar/wp-content/uploads/2024/12/logo-radio-up.png" group-title="MISIONES", RADIO UP 99.5 POSADAS
+https://streamyes.alsolnet.com/radioup955/live/playlist.m3u8
+
+
 
 
 
@@ -2085,10 +2099,10 @@ https://inliveserver.com:1936/12030/12030/playlist.m3u8
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0375
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0379
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0384
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0388
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8  
