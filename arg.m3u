@@ -1229,6 +1229,8 @@ https://stmvideo6.livecastv.com/medpinamar/medpinamar/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fmdelsur103.com.ar/wp-content/uploads/2021/02/cropped-WhatsApp-Image-2020-08-20-at-5.07.30-PM.jpeg" group-title="PCIA BS AS", FM DEL SUR 103.7 VERONICA
 https://inliveserver.com:1936/8562/8562/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lu22.com.ar/img/logo.png?v=1.25" group-title="PCIA BS AS", LU22 RADIO TANDIL
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/lu22contenidos/chunks.m3u8
 
 
 
