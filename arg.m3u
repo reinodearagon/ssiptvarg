@@ -89,7 +89,7 @@ http://181.13.173.86:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA TV 
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/PSdCVquO_vZXDVdlCteix90MWLeLm-47kxUAf6Rk0j3j0yXxPekUt1MnYsdogZOq0t3VhWKuhw=s160-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", TVPUBLICA  
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="NACIONALES", TVPUBLICA  
 https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
@@ -1485,9 +1485,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="CORRIENTES", CTV CORRIENTES
-https://stmvideo6.livecastv.com/canal7/canal7/playlist.m3u8
+https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Xsx2hTl33BhUJu40H3WjQhMuQK3r2HczS0brsgN1I28FwrNWq4LdHo626BS9_Dp_3SBqakYSMg=s176-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", Yapeyu Cable color
+#EXTINF:-1 tvg-logo="http://www.yapeyucablecolor.com.ar/img/BANNER.png" group-title="CORRIENTES", Yapeyu Cable color
 https://videohd.live:19360/8094/8094.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="CORRIENTES", 5TV CORRIENTES
