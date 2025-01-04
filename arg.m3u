@@ -1273,7 +1273,7 @@ https://tv.streamcasthd.com:3945/live/canal7saujillive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png" group-title="CHACO", 9LINK CHACO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="CHACO", 9LINK CHACO
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w549334014_b2044100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iGAbw0EcsH5bVSdEpsBRyix0FVRuxTWA32wR2swu8uwmLK2qhKxuge273Z7SB70TF9EhoedcuA=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
