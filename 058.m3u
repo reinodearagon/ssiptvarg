@@ -1,9 +1,8 @@
 #EXTM3U    
 
 
-
-#EXTINF:-1,tnu 
-http://45.170.40.10:8000/play/a033
+#EXTINF:-1 tvg-id="a008",TV Publica
+http://168.196.227.129:8001/play/a02j
 
 
 
