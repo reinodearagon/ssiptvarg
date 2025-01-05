@@ -2606,36 +2606,36 @@ https://fl1004.bozztv.com/ssh101/zoytvfamily/tracks-v1a1/mono.m3u8
 https://fl1004.bozztv.com/ssh101/zoytvkids/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV PITUFOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
-#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 1
-https://fl1004.bozztv.com/ssh101/zoytvsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 2
-https://fl1004.bozztv.com/ssh101/zoytvsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 3
-https://fl1004.bozztv.com/ssh101/zoytvsports3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 4
-https://fl1004.bozztv.com/ssh101/zoytvsports4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 5
-https://fl1004.bozztv.com/ssh101/zoytvsports5/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.gogoplaytv.com/images/logo%20gogoplaytv.svg?crc=3783335031" group-title="GOGO PLAY TV", GOGO PLAY
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gogoplaytv.com/images/logo%20gogoplaytv.svg?crc=3783335031" group-title="GOGO PLAY TV", GOGO PLAY
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gogoplaytv.com/images/logo%20gogoplaytv.svg?crc=3783335031" group-title="GOGO PLAY TV", MIX BOLIVIA TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV 1
-https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
+https://seo.tv.bo/tv/ISEO-TV-1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV KIDS
-https://seo.tv.bo/tv/IPSEO-TV-2.m3u8
+https://seo.tv.bo/tv/ISEO-TV-2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV NOVELAS
-https://seo.tv.bo/tv/IPSEO-TV-3.m3u8
+https://seo.tv.bo/tv/ISEO-TV-3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV PELICULAS
-https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
+https://seo.tv.bo/tv/ISEO-TV-4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV DEPORTES
-https://seo.tv.bo/tv/IPSEO-TV-5.1.m3u8
+https://seo.tv.bo/tv/ISEO-TV-5.1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV DEPORTES 2
-https://seo.tv.bo/tv/IPSEO-TV-5.2.m3u8
+https://seo.tv.bo/tv/ISEO-TV-5.2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV YUNGAS
-https://seo.tv.bo/tv/IPSEO-TV-7.m3u8
+https://seo.tv.bo/tv/ISEO-TV-7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV TROPICO
-https://seo.tv.bo/tv/IPSEO-TV-8.m3u8
+https://seo.tv.bo/tv/ISEO-TV-8.m3u8
 
 
 
