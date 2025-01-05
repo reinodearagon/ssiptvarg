@@ -1,37 +1,7 @@
 #EXTM3U    
 
-#EXTINF:-1,BO | ABYA YALA TV FHD | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS2yFB9eVDrwtE0p6sJrA1xE
-#EXTINF:-1,BO | ATB | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS2LBTUdpvbtvdTCOlCq21mI
-#EXTINF:-1,BO | BOLIVIA TV | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS6EqVh5sdc3b1NPQL6gdWzQ
-#EXTINF:-1,BO | BOLIVISION TV FHD | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS2-muQanN0uOJIw3nerdFSc
-#EXTINF:-1,BO | DEPORTES TV | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsSy2h74h4kAeG7x400KOIblM
-#EXTINF:-1,BO | GIGAVISION TV | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS8DISDA4ufWt5JY8BArXCjI
-#EXTINF:-1,BO | RED ADVENIR TV FHD | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS9P2qNwr_OfFEcbUdjwbr-c
-#EXTINF:-1,BO | RED UNO SANTA CRUZ TV FHD | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS14WPv6THUkj_2eK8Zk4w8s
-#EXTINF:-1,BO | RTP | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS9BqI4qY7sVEErirgj1ad8Q
-#EXTINF:-1,BO | SEO TV FHD | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS_3JQr1naJ203MBIjN6aK4o
-#EXTINF:-1,BO | SEO TV NOVELAS TV FHD | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS4xYRLDukc_V5pSYBqxYcbQ
-#EXTINF:-1,BO | TIGO SPORT 2 | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsSzvLsuEenTsF4SJKntOFJFQ
-#EXTINF:-1,BO | TIGO SPORTS 3 | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS8SMtiaz7FnEMfQVWZ7-7Vc
-#EXTINF:-1,BO | UNITEL TV | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS1kya0iADozh4NCtPkjfm8Y
-#EXTINF:-1,BO | UNIVERSITARIA TV | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS0Isz5MOQrFFpYhzI7mXIzU
-#EXTINF:-1,BO | XTO TV FHD | op1
-https://maranatha-tv.com:443/play/EGv9xd0JAx1fmly81MSsS_ZcSdLXgmB3mhth8ocJfhA
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="prueba", dsports
+http://38.137.217.169:8000/play/a05j
 
 
 
