@@ -2099,7 +2099,8 @@ https://inliveserver.com:1936/12030/12030/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/logo_rts.png?r=2" group-title="SANTA FE", RTS TELEVISION SANTAFECINA
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8 
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI3ZTNlZWQ0YzllMjdmNDVlYWFkMzU4ZjZjYjQxNjJiMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzM2MjE3NjM3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.cwr8kbZ_OPxS-51qXdi8hvPo9_UiAuSblzWIRjeXKesa5ja0x1nBCEibcTOMUwMruWJ7pGh6_syYZYDPVRnNgJWEohatZkMKcfMORlfzAT_wjoHAg9dGBffJGVH2Xu2crASHCFZpHqBOaOUKMfuRWVNjvFyJPvmacjHTmAsEj8kc-uC-WMEr1IebEPAJVx6hM-u2ECPVJMkdlJ6k_7VE_cUZFuCLdGFMYI_vPFKlM5L14fdJp_m-RxzMv37s6QpKjYA4Fm6GPaaHoyQLQw7vbna_VK6188HhQ2jdMSD731bF0hoGSeoqzNtVdek2KLvPSEeV2ElN41FU05K5xiQgpA/manifest/video.m3u8?CMCD=cid%3D%221736174438680%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2212630236-f8bf-450f-9ab2-4bbab25d512b%22%2Csu
+
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0381
