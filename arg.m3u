@@ -883,7 +883,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3de378_8d767ca44c814fbebb80ee05c368dadc~mv2.png/v1/fill/w_103,h_30,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Nuevo%20proyecto.png" group-title="AMBA", X LEVEL TV
-https://tv.portalexpress.es:3017/live/adminxlevellive.m3u8
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://perfectospekadores.com.ar/images/foto/6744c68a67c9f.webp" group-title="AMBA", Perfectos Pekadores
 https://stmv5.livecastv.com/perfectospekadores/perfectospekadores/1.m3u8
@@ -1347,10 +1347,10 @@ http://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0216
+http://190.123.90.146:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA  
-https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8 
+http://190.123.90.146:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CORDOBA", CANAL 10 CORDOBA
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
