@@ -865,6 +865,9 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AMBA", QUANTICA TV  16.2
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AMBA", LA PODEROSA TV  16.3" group-title="AMBA", LA PODEROSA TV  16.3
 https://videostream.shockmedia.com.ar:19360/poderosa/poderosa.m3u8
 
@@ -879,12 +882,6 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="AMBA", TELE MIX CANAL 50 GLEW
 https://glb.bozztv.com/glb/ssh101/telemixlive/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS
-https://panel.host-live.com/8012/8012/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="AMBA", CANAL 4 TELEAIRE
-https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
@@ -910,6 +907,11 @@ https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediospublicos.marcospaz.net/images/logos/tv-w.png" group-title="AMBA", TVP MARCOS PAZ 19.1
 https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS
+https://panel.host-live.com/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="AMBA", CANAL 4 TELEAIRE
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3de378_8d767ca44c814fbebb80ee05c368dadc~mv2.png/v1/fill/w_103,h_30,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Nuevo%20proyecto.png" group-title="AMBA", X LEVEL TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
