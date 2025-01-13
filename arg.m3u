@@ -2113,7 +2113,8 @@ https://inliveserver.com:1936/12030/12030/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="SANTA FE", LITUS TV SANTA FE
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0380
@@ -2123,12 +2124,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0389
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8  
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="SANTA FE", LITUS TV SANTA FE
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.loteriasantafe.gov.ar/templates/loteria/images/logo.png" group-title="SANTA FE", LOTERIA SANTA FE
-https://ythls.armelin.one/channel/UCkw6fIWEwQCMacEFLBzLytA.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" group-title="SANTA FE", POWER MAX 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
