@@ -2122,14 +2122,16 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0380
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0389
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZk-YY4FHlvdlIoFyLCEc68RIlo-XdhZ5lMvG9DFw=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", AIRE DE SANTA FE
+https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8  
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" group-title="SANTA FE", POWER MAX 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 
-#EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
-https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/canal-5-del-pueblo.png?itok=xeDioec1" group-title="SANTA FE", CANAL 5 DEL PUEBLO
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
@@ -2149,12 +2151,6 @@ https://6098feb5d2881.streamlock.net/live/canallocal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/themes/cablevideo/img/canalveo.svg" group-title="SANTA FE" , VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZk-YY4FHlvdlIoFyLCEc68RIlo-XdhZ5lMvG9DFw=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", AIRE DE SANTA FE
-https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cadenaregional.com/wp-content/uploads/2021/11/logo-CR.png" group-title="SANTA FE", CADENA REGIONAL MAXIMO PAZ
-https://vivo.solumedia.com:19360/argento/argento.m3u8
-
 #EXTINF:-1 tvg-logo="https://cadenaregional.com/wp-content/uploads/2021/11/logo-CR.png" group-title="SANTA FE", CADENA REGIONAL ALCORTA
 https://vivo.solumedia.com:19360/argento3/argento3.m3u8
 
@@ -2173,20 +2169,24 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/595606877175689216/x0mTiDts.jpg" group-title="SANTA FE", CABLE IMAGEN ARMSTRONG SANTA FE
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/08b140_f961350c80d346f6aa063d508064d9e9~mv2.png/v1/fill/w_255,h_98,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/08b140_f961350c80d346f6aa063d508064d9e9~mv2.png" group-title="SANTA FE", FM DIEZ FUNES 93.9
-https://stmvideo3.livecastv.com/fm10funes/fm10funes/playlist.m3u8
-  
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Fe-C5SF-en-vivo-Online.png" group-title="SANTA FE", C5SF SANTA FE
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="SANTA FE", CORREA RADIOVISION
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
+https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal3tacural.com.ar/wp-content/uploads/2023/05/cropped-logo_canal3tacural.jpg" group-title="SANTA FE", CANAL 3 TACURAL
 https://canal3tacural.site:4443/hls/canal3_hd.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Fe-C5SF-en-vivo-Online.png" group-title="SANTA FE", C5SF SANTA FE
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.sol915.com.ar/wp-content/uploads/2021/12/logosolplay-x1-mobile-22.png" group-title="SANTA FE", SOL 91.5 SANTA FE    
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/08b140_f961350c80d346f6aa063d508064d9e9~mv2.png/v1/fill/w_255,h_98,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/08b140_f961350c80d346f6aa063d508064d9e9~mv2.png" group-title="SANTA FE", FM DIEZ FUNES 93.9
+https://stmvideo3.livecastv.com/fm10funes/fm10funes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lt9.com.ar/assets/img/lt9id.png?r=1" group-title="SANTA FE", LT9 AM 1150 SANTA FE
 https://inliveserver.com:1936/12060/12060/playlist.m3u8
