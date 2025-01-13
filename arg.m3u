@@ -1268,16 +1268,16 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/lu22contenidos/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="CATAMARCA", CANAL 7 CATAMARCA
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ltocatamarca.github.io/Logo/LTO%201%20Foto%20Portada-1.png" group-title="CATAMARCA", LTO CATAMARCA
-https://ltocatamarca.github.io/ltotv.m3u8
+#EXTINF:-1 tvg-logo="https://radio-tvvalleviejo.com/wp-content/uploads/2024/07/MOSCA-Radio-Tv-Valle-Viejo_-e1722129329959.png" group-title="CATAMARCA", RADIO VALLE VIEJO 104.1 FM CATAMARCA
+https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RPH_beUtDGmI6kKxPlh37nyjWk-ovJivplSRGTrI6ZMJX3DITW1YZttFsgOagR5Wvi1hFa6ccA=s900-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
 https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Y3yI1SZzwS-gsv3TSBdzheQ4EObiOFWuLHbphJrXMe1BAc3YXxuZK8njmO3jm6xf-IaSrda6JQ=s160-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", RADIO VALLE VIEJO 104.1 FM CATAMARCA
-https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ltocatamarca.github.io/Logo/LTO%201%20Foto%20Portada-1.png" group-title="CATAMARCA", LTO CATAMARCA
+https://ltocatamarca.github.io/ltotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/435599016_122140474784150131_4407321880318274343_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeENfvexwlRSRzOPQTinM8icdkA4mb0u6vt2QDiZvS7q-zt3oBtULpg7wSJlirCZ45A&_nc_ohc=cpk3caaNhJcQ7kNvgGZQwdr&_nc_zt=23&_nc_ht=scontent.faep7-1.fna&_nc_gid=AdAaVWJYsJFAEJZVJCDOhOP&oh=00_AYBj2g34qSQq28XnlFuBfzGiG-NFaV_ISDT-3tatGmHXbg&oe=673FCF06" group-title="CATAMARCA", Canal 7 Saujil
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWO6EK_jZFBMl5cRSeODK0OksBHdiBZDkiig&s" group-title="CATAMARCA", Canal 7 Saujil
 https://tv.streamcasthd.com:3945/live/canal7saujillive.m3u8
 
 
