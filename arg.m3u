@@ -1080,7 +1080,10 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0187
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="PCIA BS AS", CANAL 8 MAR DEL PLATA
-https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w1373127658_b1662976_tkd293emF0b2tlbmVuZHRpbWU9MTczMjIyNTU2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9M1VpNlNyejc3M01ic0hzVUlibno3b0YxWDJXOWJHV0tPSlo3Z3NEZnVSRT0=.m3u8
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="PCIA BS AS", CANAL 8 MAR DEL PLATA
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w23064805_b928840_tkd293emF0b2tlbmVuZHRpbWU9MTczNjc4MzE2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9d21adXhabXlsbWJnNXN0bWFpc3dqVEZ6OGw3U3Eyc3VnYmRzeG0tZGZ4MD0=.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/M14IwE4_GRnGI7a2vzEWC0O_-5LYsKyaRLrtZz_63APTwB0lgpfUVxy5Knj_3LBxHwXKlmNN=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
 https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
@@ -1903,20 +1906,8 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb5-vSRK5KLAtpTQoPAsGV3dPKFq8HDrB8hbgKAYw=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN", CN 24/7 NEUQUEN 
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
-#EXTINF:-1 tvg-logo="https://neuquentvcanal10.com.ar/tv/wp-content/uploads/2021/07/LogoP1.fw_-300x141.png" group-title="NEUQUEN", CANAL 10 NEUQUEN
-https://stmvideo3.livecastv.com/tv10/tv10/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI9VALLE.png" group-title="NEUQUEN", CANAL 9 VALLE TV
-https://stmvideo1.livecastv.com/valletv/valletv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1078_Canal_6___Viento_Recio_Internacional.png" group-title="NEUQUEN", Canal 6 - Viento Recio 
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1462_Inminente_TV.png" group-title="NEUQUEN", Inminente TV 
-https://stmvideo6.livecastv.com/zonagospel/zonagospel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cadenaritmo.com.ar/imagenes/logo.png" group-title="NEUQUEN", CADENA RITMO 101.1 FM 
-https://videostream.shockmedia.com.ar:19360/cadenaritmo/cadenaritmo.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fmlider897.com.ar/img/logo_1668106571.png" group-title="NEUQUEN", FM LIDER 89.7 CAVIHUE
 https://inliveserver.com:1936/12020/12020/playlist.m3u8
@@ -1929,6 +1920,17 @@ https://inliveserver.com:1936/12072/12072/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://la105fm.com.ar/wp-content/uploads/2024/01/Logonuevo2.png" group-title="NEUQUEN", La 105 FM Libertad
 https://vivo.solumedia.com:19360/la105fm/la105fm.m3u8
+
+#EXTINF:-1 tvg-logo="https://cadenaritmo.com.ar/imagenes/logo.png" group-title="NEUQUEN", CADENA RITMO 101.1 FM 
+https://videostream.shockmedia.com.ar:19360/cadenaritmo/cadenaritmo.m3u8
+
+#EXTINF:-1 tvg-logo="https://neuquentvcanal10.com.ar/tv/wp-content/uploads/2021/07/LogoP1.fw_-300x141.png" group-title="NEUQUEN", CANAL 10 NEUQUEN
+https://stmvideo3.livecastv.com/tv10/tv10/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI9VALLE.png" group-title="NEUQUEN", CANAL 9 VALLE TV
+https://stmvideo1.livecastv.com/valletv/valletv/playlist.m3u8
+
+
 
 
 
