@@ -1298,7 +1298,7 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w549334014_
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iGAbw0EcsH5bVSdEpsBRyix0FVRuxTWA32wR2swu8uwmLK2qhKxuge273Z7SB70TF9EhoedcuA=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZmX7k3kujzcBTEl49dP0jSqLk5eYNWQIFEf-cnLjP6Xhbjvxw9QRfIa9h1xdKYkX0n5WmY8Y=s160-c-k-c0x00ffffff-no-rj" group-title="CHACO", SOMOS UNO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtds-zyF9JkHy8wPnHSRtBk9jryaVuSOLa9g&s" group-title="CHACO", SOMOS UNO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="CHACO", CIUDAD TV CHACO
@@ -1310,7 +1310,7 @@ https://stmv1.voxtvhd.com.br/viptvv/viptvv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://laradio1047.com.ar/images/logo_top.png" group-title="CHACO", LA RADIO FM 104.7 FM RESISTENCIA CHACO
 https://vivo.solumedia.com:19360/chaco/chaco.m3u8
 
-#EXTINF:-1 tvg-logo="https://master.com.ar/wp-content/uploads/Logo-Master-Sociales-jpeg-768x768.jpg" group-title="CHACO", MASTERS FM 89.9 RESISTENCIA
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/40230.jpg" group-title="CHACO", MASTERS FM 89.9 RESISTENCIA
 https://streamlov.alsolnet.com/radiomasterfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-IF-GL1j7RKI2vNaHYZcvPZ9NK2jjeh90PkRVx=s900-c-k-c0x00ffffff-no-rj" group-title="CHACO", TIV TRES ISLETAS CHACO
@@ -1322,7 +1322,7 @@ https://5f700d5b2c46f.streamlock.net/am800/am800/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiotopresistencia.com/wp-content/uploads/2023/06/cropped-cabecera1.jpg" group-title="CHACO", RADIO TOP 105.9 FM RESISTENCIA
 https://glb.bozztv.com/glb/ssh101/radiotoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://station-images.prod.radio-api.net/300/radio-maxima-893.png?version=784ddd25d745c11cb327b2cea62cbf37" group-title="CHACO", MAXIMA FM 89.9 CHACO
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d5f7a92cd22cec427c97518c7d981ded.png" group-title="CHACO", MAXIMA FM 89.9 CHACO
 https://glb.bozztv.com/glb/ssh101/maximafmchaco/playlist.m3u8
 
 
