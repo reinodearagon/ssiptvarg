@@ -1073,20 +1073,19 @@ https://inliveserver.com:1936/9000/9000/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kBvQFPXdSiB-ye9vWe4yMTPlfBbPr-DVFlFqu1X53Mtw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0187
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZSwlhkQFkgeMpoK8iSsAkKeJ-2RovxiK0OrwA1FyRZ5iIm-PnXKIBZMtbCBR3kD281vKUvNRug=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="PCIA BS AS", CANAL 8 MAR DEL PLATA
-https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w23064805_b928840_tkd293emF0b2tlbmVuZHRpbWU9MTczNjc4MzE2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9d21adXhabXlsbWJnNXN0bWFpc3dqVEZ6OGw3U3Eyc3VnYmRzeG0tZGZ4MD0=.m3u8
+#EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="PCIA BS AS", CANAL 6 MAR DEL PLATA
+https://panel.host-live.com/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/M14IwE4_GRnGI7a2vzEWC0O_-5LYsKyaRLrtZz_63APTwB0lgpfUVxy5Knj_3LBxHwXKlmNN=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
 https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
-
-#EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
-https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="PCIA BS AS", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -1105,9 +1104,6 @@ https://cp.panelchs.com:1936/8146/ngrp:8146_all/playist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalinmobiliario.tv/wp-content/uploads/2022/07/LOGO-Canal-Inmobiliario-1536x864.png" group-title="PCIA BS AS", CANAL INMOBILIARIO TV
 https://vivo.solumedia.com:19360/canalinmobiliario/canalinmobiliario.m3u8
-
-#EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="PCIA BS AS", CANAL 6 MAR DEL PLATA
-https://panel.host-live.com/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3U8PC3QtI-S1WkBl0ieaz2XWw92IfdA8EGsUppnNkz9UfPhf4onqulTjn2p8HdZRRaYJhl9r=s900-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 21 PEHUAJO
 https://vivo.solumedia.com:19360/canal21/canal21.m3u8
@@ -1548,8 +1544,7 @@ https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/600px-Logo_ELONCE_Paran%C3%A1.png" group-title="ENTRE RIOS", ONCE TV PARANA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0248
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
@@ -1752,8 +1747,7 @@ https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="MENDOZA", EL SIETE MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0275
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -1958,8 +1952,7 @@ https://inliveserver.com:1936/12018/12018/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/640px-Elonce_TV_Salta.png" group-title="SALTA", EL ONCE TV SALTA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0328
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="SALTA", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
@@ -2003,11 +1996,7 @@ https://stream.arcast.host:8443/ciudadfm/ciudadfm.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0346
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="SAN JUAN", CANAL 13 SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0345
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="SAN JUAN", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
@@ -2118,10 +2107,10 @@ https://inliveserver.com:1936/12030/12030/playlist.m3u8
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0380
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0378
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0389
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0387
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZk-YY4FHlvdlIoFyLCEc68RIlo-XdhZ5lMvG9DFw=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", AIRE DE SANTA FE
 https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
