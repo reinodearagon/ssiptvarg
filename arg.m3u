@@ -686,7 +686,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2012/01/31/120131193926_hispantv_logo_304x171__nocredit.jpg" group-title="NOTICIAS INTERNACIONAL", HISPAN TV
-https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1737931096_b644100_slen.m3u8
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", CGTN ESPAÑOL
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -973,7 +973,7 @@ https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO-AMBA", LA 100
-https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
+https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO-AMBA", LATINA RADIO FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
