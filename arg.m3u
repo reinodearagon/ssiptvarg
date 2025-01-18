@@ -2222,7 +2222,7 @@ https://videostream.shockmedia.com.ar:19360/rdmtv/rdmtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_TV_P%C3%BAblica_Fueguina.png/1200px-Logo_TV_P%C3%BAblica_Fueguina.png" group-title="TIERRA DEL FUEGO", TELEVISION PUBLICA FUEGUINA
-https://nd106.republicaservers.com/hls/c6988/index.m3u8
+http://200.121.48.17:8000/play/a0bq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal2.com.ar/_next/image?url=%2Fcanal2-logo.png&w=48&q=75" group-title="TIERRA DEL FUEGO", CANAL 2 USHUAIA
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
