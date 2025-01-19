@@ -18,13 +18,14 @@ http://190.11.130.46/mnp/a24/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LR6.png" group-title="radio arg",LR6 Mitre - 790 TV - CABA AM - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT84.png" group-title="radio arg",LT84 Canal 5 - 38.1TV - Rosario  TV - ST Santa Fe
-https://radiosargentina.com.ar/php/tvm3u.php?id=TEAR0377
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0377
+
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT82.png" group-title="radio arg",LT82 Canal 13 - 29.1TV - Santa Fe  TV - ST Santa Fe
-https://radiosargentina.com.ar/php/tvm3u.php?id=TEAR0386
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0386
 
 
 
