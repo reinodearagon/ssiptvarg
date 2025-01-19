@@ -1939,8 +1939,8 @@ https://inliveserver.com:1936/12018/12018/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/640px-Elonce_TV_Salta.png" group-title="SALTA", EL ONCE TV SALTA
+http://181.10.181.101:15001/play/a0da/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="SALTA", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
