@@ -1066,8 +1066,8 @@ https://inliveserver.com:1936/9000/9000/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://noticiasdoce.com.ar/logofooter.png" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN 
+https://ythls-v3.onrender.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="PCIA BS AS", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
@@ -1535,7 +1535,8 @@ https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D4dJktBXZr-HJd69IiAtn-013T2XheGAGTzZd9wIYrMydNa0EYHWCikOEFbuvdGyntpG4H8I9w=s88-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ONCE TV PARANA
+https://ythls-v3.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
@@ -1986,10 +1987,10 @@ https://stream.arcast.host:8443/ciudadfm/ciudadfm.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0342
+https://ythls-v3.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="SAN JUAN", CANAL 13 SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0341
+https://ythls-v3.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="SAN JUAN", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
