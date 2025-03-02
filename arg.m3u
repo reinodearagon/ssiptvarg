@@ -1641,6 +1641,9 @@ https://stream.arcast.live/silverchannel/silverchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="JUJUY", TELECANAL JUJUY
 https://glb.bozztv.com/glb/ssh101/TLCANAL/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.grupomaxima.com.ar/images/logos/Logo-Grupo-Maxima-300x198.webp" group-title="JUJUY", Maxima 99.7 FM Jujuy
+https://videostream.shockmedia.com.ar:19360/grupomaxima/grupomaxima.m3u8
+
 
 
 
