@@ -1986,7 +1986,7 @@ https://stream.arcast.live/sarmiento/sarmiento/playlist.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", ZONDA TV SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+https://cnnsanjuan.com:9999/live/zonda/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.delsurdiario.com/_rv20241101-01/web/assets/imgs/logos/delsur.png" group-title="SAN JUAN", DEL SUR TV SAN JUAN
 https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
@@ -2001,9 +2001,6 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 https://srs.unsj.edu.ar/live/xama/xama.m3u8?hls_ctx=8665225t
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXhlgSw5SACbz1uBeSQbxF6SMUAjRcoHjTa2X7mv4qWAGhUXwtzP8MHwGrhEQxw3vBR8&usqp=CAU" group-title="SAN JUAN", CANAL 40 CAUCETE
-https://canalsj.kozow.com/canal40/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXhlgSw5SACbz1uBeSQbxF6SMUAjRcoHjTa2X7mv4qWAGhUXwtzP8MHwGrhEQxw3vBR8&usqp=CAU" group-title="SAN JUAN", CANAL 40 CAUCETE
 https://canalsj.kozow.com/canal40/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="SAN JUAN", FM DEL SOL 91.9 SAN JUAN
@@ -2011,7 +2008,6 @@ https://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo1-qvcz17sarc8mp5ikc82wnbekikpiir7mvpns79xwvw.png" group-title="SAN JUAN", RADIO ACTIVA 88.9 FM SAN JUAN
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSyKD_hqwTr-iUyjoZlzruEu9Du1QMU6Y2KY9lH1Q=s176-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", DIARIO DE SAN JUAN
 https://videostream.shockmedia.com.ar:19360/radiolared/radiolared.m3u8
@@ -2021,6 +2017,8 @@ https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fm957.com.ar/Horizontal2.png" group-title="SAN JUAN", Concepto 95.7 FM San Juan
 https://live.enhdtv.com:8081/concepto/index.m3u8   
+
+
 
 
 
