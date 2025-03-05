@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://americatucuman.com/wp-content/uploads/2020/03/LOGO-AMERICA-TUCUMAN-2020.png" group-title="INTERIOR DE ARGENTINA", AMERICA TUCUMAN
 https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@AmericaTucuman/live
 
+#EXTINF:-1 tvg-logo="https://americatucuman.com/wp-content/uploads/2020/03/LOGO-AMERICA-TUCUMAN-2020.png" group-title="INTERIOR DE ARGENTINA", 2
+https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/watch?v=_fdNPUeQbgk
+
 
 
 
