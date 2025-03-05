@@ -1206,6 +1206,9 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/1935/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---DSR.png" group-title="PCIA BS AS", DSR MEDIOS
 https://panel.host-live.com/8114/8114/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.canal2sanjose.com.ar/wp-content/uploads/2021/07/logo1.png" group-title="PCIA BS AS", CANAL DOS COOPERATIVA SAN JOSE
+https://vivo.solumedia.com:19360/tv2coop/tv2coop.m3u8
+
 
 
 
