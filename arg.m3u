@@ -1968,6 +1968,9 @@ https://vivo.solumedia.com:19360/radiosalta/radiosalta.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9hVqjhqBDvqwmquUaPrZ-5K7qQ36M8IzqA&s" group-title="SALTA", CIUDAD FM 88.1 TARTAGAL
 https://stream.arcast.host:8443/ciudadfm/ciudadfm.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radioinfo.ar/archivos/clientes_logos/16364316978.jpg" group-title="SALTA", Salta YA Cadena 3 92.7 FM
+https://videostream.shockmedia.com.ar:19360/fmlatina925/fmlatina925.m3u8
+
 
 
 
