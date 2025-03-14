@@ -975,6 +975,9 @@ https://inliveserver.com:1936/9000/9000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmradiocristal.com.ar/wp-content/uploads/2024/01/faroles3-72p-e1706111437126.png" group-title="RADIO-AMBA", RDN Cristal 94.9 FM
 https://5f700d5b2c46f.streamlock.net/cristal/cristal/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiodetodos.com.ar/wp-content/uploads/2023/10/300x300.png" group-title="RADIO-AMBA", Radio de Todos Lanus 
+https://video1.makrodigital.com/laradiodetodos/laradiodetodos/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
 
