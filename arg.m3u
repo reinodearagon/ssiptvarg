@@ -1754,10 +1754,8 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://fmrockandpopgoya.com.ar/web/wp-content/uploads/2022/03/sin-logo-24-43-sin.png" group-title="CORRIENTES", Rock & Pop 102.5 FM Goya
+https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 
 
 
