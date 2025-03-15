@@ -2069,10 +2069,10 @@ https://inliveserver.com:1936/12030/12030/playlist.m3u8
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0393 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0397 
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0402
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0406
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZk-YY4FHlvdlIoFyLCEc68RIlo-XdhZ5lMvG9DFw=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", AIRE DE SANTA FE
 https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
