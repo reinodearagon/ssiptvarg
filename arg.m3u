@@ -1988,6 +1988,9 @@ https://srs.unsj.edu.ar/live/xama/xama.m3u8?hls_ctx=8665225t
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXhlgSw5SACbz1uBeSQbxF6SMUAjRcoHjTa2X7mv4qWAGhUXwtzP8MHwGrhEQxw3vBR8&usqp=CAU" group-title="SAN JUAN", CANAL 40 CAUCETE
 https://canalsj.kozow.com/canal40/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDALEPL.png" group-title="SAN JUAN", CHINGUI CHINGUI
+https://panel.host-live.com:19360/8058/8058.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="SAN JUAN", FM DEL SOL 91.9 SAN JUAN
 https://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
 
