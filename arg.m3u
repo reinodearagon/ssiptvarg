@@ -2031,7 +2031,6 @@ https://stream.arcast.live:4443/radiomasi/radiomasi/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hzI5QLp9PFPBiTCRFhb5AxIC8P7DM1kPww&s" group-title="SANTA CRUZ", CANAL 9 SANTA CRUZ
 http://200.121.48.17:8000/play/a0bp/index.m3u8
 
@@ -2040,6 +2039,9 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://plusnews.com.ar/wp-content/uploads/2023/05/logo-PLUSNEWS-x1.png" group-title="SANTA CRUZ", PLUS NEWS RIO GALLEGOS
 https://stream.arcast.tv:8443/infomedia/infomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.patagoniatvtour.com/img/portada4.jpg" group-title="SANTA CRUZ", PATAGONIA TV TOUR
+https://videohd.live:19360/8100/8100.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kG6yC0lL_Ee7edK_ntQQ8hk9d6L9FT2ykw&s" group-title="SANTA CRUZ", ZN NOTICIAS
 https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/chunklist_w621301202.m3u8
