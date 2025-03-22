@@ -258,6 +258,9 @@ https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI710.png" group-title="NOTICIAS NACIONALES", EL OBSERVADOR
+https://cs1.xcast.com.br/7868/7868/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/DNEWS%20128.png" group-title="NOTICIAS NACIONALES", DNews
 http://45.230.38.117:8000/play/a02n
 
@@ -921,6 +924,9 @@ https://g2.mc-hor.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/cron
 #EXTINF:-1 tvg-logo="https://murktv.com.ar/wp-content/uploads/2024/09/logo-rk-blanco-250x250.jpg" group-title="RADIO-AMBA", MURKTV QUILMES
 https://videostream.shockmedia.com.ar:19360/murktv/murktv.m3u8
 
+#EXTINF:-1 tvg-logo="https://fmtrujui.com/wp-content/uploads/2022/11/FM-TRUJUI-Logo-2017-base-300x180.png" group-title="RADIO-AMBA", FM TRUJUI 90.1 FM
+https://videostream.shockmedia.com.ar:19360/fmtrujui/fmtrujui.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.santiagoycopla.com.ar/assets/images/logo-trans-107x107.png" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
 https://panel.host-live.com:19360/santiagoycopla/santiagoycopla.m3u8
 
@@ -1186,6 +1192,9 @@ https://panel.host-live.com/8114/8114/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal2sanjose.com.ar/wp-content/uploads/2021/07/logo1.png" group-title="PCIA BS AS", CANAL DOS COOPERATIVA SAN JOSE
 https://vivo.solumedia.com:19360/tv2coop/tv2coop.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/radiofiestaolavarria.png" group-title="PCIA BS AS", Fiesta 105.1 TV Olavarria
+https://inliveserver.com:1936/17050/17050/playlist.m3u8
+
 
 
 
@@ -1255,7 +1264,8 @@ https://glb.bozztv.com/glb/ssh101/maximafmchaco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-IF-GL1j7RKI2vNaHYZcvPZ9NK2jjeh90PkRVx=s900-c-k-c0x00ffffff-no-rj" group-title="CHACO", TIV TRES ISLETAS CHACO
 https://videohd.live:19360/8008/8008.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C11M.png" group-title="CHACO", CANAL 11 MACHAGAI
+https://srv2.zcast.com.br/machagay/machagay/playlist.m3u88
 
 
 
@@ -1289,7 +1299,8 @@ http://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioconexionweb.com.ar/img/BANNER.png" group-title="CHUBUT", Radio Conexión Web Trelew
 https://videohd.live:19360/8046/8046.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILBOCHA.png" group-title="CHUBUT", La Bocha 99.9 FM Puerto Madryn
+https://inliveserver.com:1936/12040/12040/playlist.m3u8
 
 
 
@@ -1738,8 +1749,8 @@ https://cs1.xcast.com.br/7214/7214/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopost.fm/files/image/206/206384/67474f4a0caa7.png" group-title="MENDOZA", RADIO POST 92.1 FM MENDOZA
 https://inliveserver.com:1936/12078/12078/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIUL1047.png" group-title="MENDOZA", Unidos en Libertad 104.7 FM  Maipú
+https://panel.host-live.com:19360/8120/8120.m3u8
 
 
 
@@ -2184,8 +2195,8 @@ https://inliveserver.com:1936/17020/17020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
 https://inliveserver.com:1936/12038/12038/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LT9.png" group-title="SANTA FE", LT9 Brigadier Lopez 1150 AM Santa Fe
+https://inliveserver.com:1936/12060/12060/playlist.m3u8
 
 
 
