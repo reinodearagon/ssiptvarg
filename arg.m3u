@@ -1205,13 +1205,7 @@ https://inliveserver.com:1936/17050/17050/playlist.m3u8
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio-tvvalleviejo.com/wp-content/uploads/2024/07/MOSCA-Radio-Tv-Valle-Viejo_-e1722129329959.png" group-title="CATAMARCA", RADIO VALLE VIEJO 104.1 FM CATAMARCA
-https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://inforama.com.ar/wp-content/uploads/2022/05/LOGO_FONDO-VERDE-CLARO-1000X1000-01-01.png" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
-https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ltocatamarca.github.io/Logo/LTO%201%20Foto%20Portada-1.png" group-title="CATAMARCA", LTO CATAMARCA
-https://ltocatamarca.github.io/ltotv.m3u8
+https://stream.arcast.ar/radiovalleviejo/ngrp:radiovalleviejo_all/chunklist_w1011000286_b861000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWO6EK_jZFBMl5cRSeODK0OksBHdiBZDkiig&s" group-title="CATAMARCA", Canal 7 Saujil
 https://tv.streamcasthd.com:3945/live/canal7saujillive.m3u8
