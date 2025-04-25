@@ -197,10 +197,13 @@ http://181.209.114.13:8000/play/a06w/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV
-http://190.11.130.46/mnp/construiriptv/output.mpd
+https://is-tucuman.cdn.rcs.net.ar/mnp/construiriptv_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
 http://200.55.244.75:8000/play/a0dy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7I0zWtQMqn89q-FogIvkNaXTkzuebid_ojBFpc9K-2A4SusTa7dCe2WDWGX6pD_l-P21C_7nFFvqh3Ornml6OQWgpd49s9e2IluOopKfnS4TsYkQWINZYcAXWsiWhy4e2CstHT0za7pVzDEfy34Q5P9iKR5cR06ZqVwmmkllaoLJ5i3EoOhNS7hJjsKI/s200-rw/487835247_644759884858862_8134001419385873427_n.png" group-title="NACIONALES", VIAJAR
+https://dr2t9f8nivbc6.cloudfront.net/hls/HL3SLDA/8AEDE38B77B3/m.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
@@ -1856,6 +1859,12 @@ https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/671ed6_c34db7615e22419983dc02ea94b28f55.png/v1/fill/w_250,h_187,al_c,q_95,enc_auto/671ed6_c34db7615e22419983dc02ea94b28f55.png" group-title="NEUQUEN", EL ARCA DE NEUQUEN
 https://vivo.solumedia.com:19360/elarca/elarca.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkezO0saminOts2GWRJe5d58NvYEdg8zciwb3MsuVsSOadBM-h0BQd_HRGz1kOscspfd1RmvMnYqn0JaC5NZIkVi1bEJvG1qt9t-xujyiy-l0Hz8jAjPUqAqqqKUTSsHVFLWXRd7mMc8I0AMRcnV3jH18WbG8GBmNAAkNUsLe13uxaFNw-dIr23BWrVyQ/s200-rw/canal-10-senillosa-tv-removebg-preview.png" group-title="NEUQUEN", CANAL 10 SENILLOSA
+https://stmv1.liveplushd.com.br/senillosatv/senillosatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSEJW-GSV0Mq0kxFq1Bo4NF9w44ku2XIEpo3n6qw-56mxbETNwuMnR1C-6DbmHMVb19DJ_OuArhmbXe9hfPu7fJvTNet8oTO5uxO2-8F9WwHedmUiCaW6VvUa5E287WfBQdK-XhHtNXRDr6zZJ5qZMW8Vfy1qdbzlxDLf65VG7osIU-rD6NivRhJlXz_A/s200-rw/483112129_1868414353960399_3120632722498355892_n.png" group-title="NEUQUEN", CANAL 10 NEUQUEN
+https://stmv1.liveplushd.com.br/canal10neuquen/canal10neuquen/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiochanar.com.ar/wp-content/uploads/2024/08/LOGO-FULLldpi.png" group-title="NEUQUEN", 87.9 Fm Municipal Radio Chañar
 https://inliveserver.com:1936/12072/12072/playlist.m3u8
 
@@ -2287,7 +2296,10 @@ https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigiWsXaX5t91OcQbGYaGaEwGZfXUxpqmrGzDtZDkfmmbREUckcSycpUsPH8Tkv7K3y6Ch6M3wjdIto6rcxlMSYJ--gA245aHyOlFX1Vvb90vro7viKj7c4XCU1zGOpLhx-27nuwJcsYdI/s1600/logochicolargo2020+arreglada+.jpg" group-title="TUCUMAN", Metropolitana 93.5 FM
 https://panel.host-live.com:19360/metropolitanafm/metropolitanafm.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigiWsXaX5t91OcQbGYaGaEwGZfXUxpqmrGzDtZDkfmmbREUckcSycpUsPH8Tkv7K3y6Ch6M3wjdIto6rcxlMSYJ--gA245aHyOlFX1Vvb90vro7viKj7c4XCU1zGOpLhx-27nuwJcsYdI/s1600/logochicolargo2020+arreglada+.jpg" group-title="TUCUMAN", RADIOS TUCUMAN
+https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sn7MM8Z5qnOBLKvOVApTCbaNSEZzEdaUxSTer3xw6uGQDcFSlTiLXktcopzp-pDdTwO5XitBk8_7Y0bO7p9zmFwaKTrJwOjavYWklXZp5ndTrZm0T3ePHUExXSvJZZvxKc4r-pNf8TJl74gxe5aRsgP7JReV9rZYIYkKqWjcdivgpPaCs0CR15QnwUY/s320-rw/uTgezJpRvkYikswrfz16.png
 
 
 
