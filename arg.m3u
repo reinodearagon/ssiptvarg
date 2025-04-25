@@ -1883,6 +1883,10 @@ https://inliveserver.com:1936/12020/12020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tGe0VH_w0ptumT8Z-BY7U2fxxCNEtIsf4Tb8kOaoCJb5h5TRy78e_MWBc2CXO8bKWkCqCJGZuRA=s160-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
 https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/playlist.m3u8?wowzatokenendtime=1744038420&wowzatokenstarttime=0&wowzatokenhash=rNU1-F8GLZhkxjcIYiyAGaAHpvizxny_z0MnYpdLxm4=
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeR2qhsy-yzhJZWwDo50Rg1a3KzFBUqb5EH6bkemtGb_GnIIFhBBlN4jzqIFBHcngA15WB5P6gRV-XyVJM_jyZYgI1L9NdALjww1JRnPEde8dNBd0yo7Sgjf_HP40Pn2V2xH28bzJ0NyvNJ-z8Jlu6dlFudJ8AQuWNlHOvCISw7tsMMjoQreVqVws1dtA/s200-rw/images-removebg-preview.png" group-title="RIO NEGRO", ABTV
+https://videostream.shockmedia.com.ar:19360/abtvbariloche/abtvbariloche.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="RIO NEGRO", RADIO ZERO 94.5 FM CATRIEL  
 https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
 
