@@ -894,6 +894,9 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/m21puramusica/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----GP.png" group-title="AMBA",  GP DIARIOS
 https://nd106.republicaservers.com:4433/hls/c7328/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/deshojandotango.com.ar/wp-content/uploads/2020/11/logo.png?fit=253%2C113&ssl=1" group-title="AMBA",  DESHOJANDO TANGO
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/deshojandotango/playlist.m3u8
+
 
 
 
