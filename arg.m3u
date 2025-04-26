@@ -62,10 +62,10 @@ http://201.217.246.177:8000/play/a078/index.m3u8
 http://201.217.246.177:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
-http://181.209.95.29:8000/play/a02u/index.m3u8
+http://200.55.244.75:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
-http://181.209.95.29:8000/play/a078/index.m3u8
+http://200.55.244.75:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
 http://186.148.196.82:8001/play/a00p
@@ -74,10 +74,10 @@ http://186.148.196.82:8001/play/a00p
 http://186.148.196.82:8001/play/a04r
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
-http://181.13.23.198:8000/play/a05x/index.m3u8
+http://190.104.67.112:234/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
-http://181.13.23.198:8000/play/a05g/index.m3u8
+http://190.104.67.112:234/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 11
 http://186.148.196.82:8001/play/a04r 
