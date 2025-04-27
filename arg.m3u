@@ -1204,6 +1204,9 @@ https://inliveserver.com:1936/17050/17050/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRV313.png" group-title="PCIA BS AS", Zona 89.3 FM Miramar
 https://nd106.republicaservers.com:4433/hls/c6618/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRM378.png" group-title="PCIA BS AS", Victoria 98.5 FM Magdalena
+https://stmv5.livecastv.com/fmvictoria/fmvictoria/playlist.m3u8
+
 
 
 
