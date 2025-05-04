@@ -2159,8 +2159,11 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://margaritaweb.com.ar/wp-content/uploads/2024/10/logoGCvNg1V6j.png" group-title="SANTA FE", Canal 2DOS Margarita
 https://cs1.xcast.com.br/7584/7584/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://multimediosactiva.com.ar/wp-content/uploads/2024/11/LOGO-RADIO.jpgg" group-title="SANTA FE", TV ACTIVA
+#EXTINF:-1 tvg-logo="https://multimediosactiva.com.ar/wp-content/uploads/2024/11/LOGO-RADIO.jpg" group-title="SANTA FE", TV ACTIVA
 https://panel.host-live.com:19360/8062/8062.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CISC.png" group-title="SANTA FE", CISC Canal 4
+https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sol915.com.ar/wp-content/uploads/2021/12/logosolplay-x1-mobile-22.png" group-title="SANTA FE", SOL 91.5 SANTA FE    
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
