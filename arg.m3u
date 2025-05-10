@@ -244,7 +244,7 @@ http://181.209.114.13:8000/play/a058/index.m3u8
 http://181.209.114.13:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +    
-http://181.13.173.86:8000/play/a01s/index.m3u8
+http://143.0.67.77:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS NACIONALES", CANAL E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
