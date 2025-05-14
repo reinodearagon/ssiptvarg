@@ -731,6 +731,10 @@ http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
 https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/simpz1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/960px-Dragon_Ball_Z_logo.svg.png" group-title="INFANTIL", DRAGON BALL Z
 https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.ts.m3u8
 
