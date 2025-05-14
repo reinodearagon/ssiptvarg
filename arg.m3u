@@ -2044,7 +2044,7 @@ https://stream.arcast.live:4443/radiomasi/radiomasi/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hzI5QLp9PFPBiTCRFhb5AxIC8P7DM1kPww&s" group-title="SANTA CRUZ", CANAL 9 SANTA CRUZ
-http://200.55.244.75:8000/play/a0dq/index.m3u8
+http://200.121.48.17:8000/play/a14n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" group-title="SANTA CRUZ", CANAL 5 PICO TRUNCADO SANTA CRUZ
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
