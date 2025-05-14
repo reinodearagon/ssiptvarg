@@ -728,6 +728,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="INFANTIL", PAKA PAKA 
 http://181.78.27.128:8000/play/a04x/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
+https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/960px-Dragon_Ball_Z_logo.svg.png" group-title="INFANTIL", DRAGON BALL Z
+https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000019-8775e87760/450/GGGGGGGG.webp?ph=d0cdb7b2de" group-title="ANIME - TEEN", TALTAL
 https://glb.bozztv.com/glb/ssh101/taltal/tracks-v1a1/mono.m3u8
 
