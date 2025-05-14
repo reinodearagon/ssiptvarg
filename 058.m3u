@@ -6,8 +6,3 @@ http://181.78.49.179:8000/play/a02x
 
 
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png" group-title="Deportes", ESPN Premium
-https://delivery.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports
-https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
