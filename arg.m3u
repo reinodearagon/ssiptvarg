@@ -1329,7 +1329,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0230
 http://190.123.90.146:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CORDOBA", CANAL 10 CORDOBA
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+http://190.96.112.22:9202/play/a09x/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTCMox85yr7_fh6Rec0Nto5dJoZRvAF7OJnq9AR=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL U CORDOBA
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
