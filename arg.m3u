@@ -194,7 +194,7 @@ http://181.209.114.13:8000/play/a021/index.m3u8
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="NACIONALES" , CANAL A 
-http://181.209.114.13:8000/play/a02g/index.m3u8
+http://186.125.218.199:13000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="NACIONALES", El Gourmet
 http://181.209.114.13:8000/play/a06w/index.m3u8
